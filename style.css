@@ -8,8 +8,14 @@ main{
 }
 
 
-footer{
+#rodape{
+    background-color: black;
 
+    display: flex;
+    align-items: center;
+    justify-items: center;
+
+    height: 50px;
 }
 
 .carousel{
