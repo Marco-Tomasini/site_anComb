@@ -8,7 +8,7 @@ body{
 
 #navbar{
     background-color: rgb(82, 80, 80);
-
+    color: white;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -40,6 +40,7 @@ body{
 
 .carrosel img{
     width: 100%;
+    padding: 10px;
     transition: transform 0.5s ease-in-out;
 }
 
