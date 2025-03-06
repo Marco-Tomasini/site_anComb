@@ -31,13 +31,14 @@ body{
     margin-bottom: 0px;
 }
 
-.carousel{
+.carrosel{
     display: flex;
     overflow: hidden;
     width: 300px;
+    background-color: rgb(107, 105, 105);
 }
 
-.carousel img{
+.carrosel img{
     width: 100%;
     transition: transform 0.5s ease-in-out;
 }
