@@ -30,7 +30,11 @@ body{
   margin: 10px;
 }
 
-
+.caixa_compra{
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
 
 
 img{
