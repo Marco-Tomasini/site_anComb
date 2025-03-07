@@ -15,6 +15,12 @@ body{
     
 }
 
+#login{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  
+  }
 
 #iconP{
     margin: 10px;
