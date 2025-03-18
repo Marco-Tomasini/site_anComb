@@ -131,7 +131,7 @@ img {vertical-align: middle; height: 500px; width: auto; justify-content: center
 }
 
 /* Next & previous buttons */
-.prev, .next {
+.prev, .next, .prev-1, .next-1, .prev-2, .next-2 {
   cursor: pointer;
   position: absolute;
   top: 50%;

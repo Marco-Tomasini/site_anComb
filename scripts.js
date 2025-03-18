@@ -5,6 +5,14 @@ function plusSlides(n) {
   showSlides(slideIndex += n);
 }
 
+function plusSlides_1(n) {
+  showSlides(slideIndex += n);
+}
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
 function currentSlide(n) {
   showSlides(slideIndex = n);
 }
